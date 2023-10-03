@@ -1,8 +1,8 @@
-## 🌸Rachelle's Portfolio
+## 🗂️Rachelle's Portfolio
 
 Welcome to my portfolio! Here I showcase some of the main projects I have worked on related to data analysis.
 
-## 🌸Table of Contents
+## 📚Table of Contents
   - [SQL](#sql)
   - [Tableau](#tableau)
   - [Google Sheets](#google-sheets)
