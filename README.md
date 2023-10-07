@@ -5,7 +5,7 @@ Welcome to my portfolio! Here I showcase some of the main projects I have worked
 ## 📚Table of Contents
   - [SQL](#sql)
   - [Tableau](#tableau)
-  - [Google Sheets](#google-sheets)
+  - [Excel](#excel)
 
 ## SQL
 
@@ -19,7 +19,7 @@ Welcome to my portfolio! Here I showcase some of the main projects I have worked
 |---|---|
 |[Test](Test)| Test
 
-## Google Sheets
+## Excel
 
 | Project Link | Description |
 |---|---|
