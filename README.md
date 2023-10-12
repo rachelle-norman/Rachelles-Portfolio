@@ -23,4 +23,4 @@ Welcome to my portfolio! Here I showcase some of the main projects I have worked
 
 | Project Link | Description |
 |---|---|
-|[Test](Test)| Test
+| [Bike Sales Dashboard](https://github.com/rachelle-norman/Bike_Sales_Dashboard) | This repo contains the walkthrough of creating a dynamic Excel spreadsheet showcasing data on bicycle sales, along with customer demographics for both purchasers and non-purchasers.
