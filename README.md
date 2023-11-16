@@ -17,7 +17,7 @@ Welcome to my portfolio! Here I showcase some of the main projects I have worked
 
 | Project Link | Description |
 |---|---|
-|[Test](Test)| Test
+|[Product and Sales Performance](https://public.tableau.com/app/profile/rachelle.norman/viz/ProductandSalesPerformance/Story1?publish=yes)| This is a series of dashboards that I created in Tableau displaying various different KPIs and metrics of sales and transaction data from a fictional company. In these dashboards, I utilized custom calculated fields to manipulate the data into meaningful insights and displayed them in a way that is easier to understand using a combination of tables and graphs.
 
 ## Excel
 
