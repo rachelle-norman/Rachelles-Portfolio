@@ -1,6 +1,6 @@
 ## 🗂️Rachelle's Portfolio
 
-Welcome to my portfolio! Here I showcase some of the main projects I have worked on related to data analysis.
+Welcome to my portfolio! Here I showcase some of the projects I have worked on related to data analysis.
 
 ## 📚Table of Contents
   - [Combined Analytic Skills Project](#combined-analytic-skills-project)
