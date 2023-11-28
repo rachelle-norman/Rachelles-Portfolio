@@ -3,16 +3,16 @@
 Welcome to my portfolio! Here I showcase some of the main projects I have worked on related to data analysis.
 
 ## 📚Table of Contents
-  - [Master Project](#master-project)
+  - [Combined Analytic Skills Project](#combined-analytic-skills-project)
   - [SQL](#sql)
   - [Tableau](#tableau)
   - [Excel](#excel)
 
-## Master Project
+## Combined Analytic Skills Project
 
 | Project Link | Description |
 | --- | --- |
-| [Airline Loyalty Program Project](https://github.com/rachelle-norman/airline-loyalty-program-project/raw/main/Data%20Analysis%20Report.docx) | This project consists of a detailed data analysis report 
+|[Airline Loyalty Program Project](https://github.com/rachelle-norman/airline-loyalty-program-project/raw/main/Data%20Analysis%20Report.docx)| This project consists of a detailed data analysis report based on findings from a sample dataset. This showcases my abilities to use Excel to clean and transform data, SQL to perform exploratory data analysis to derive insights, and Tableau to create comprehensive dashboards with a variety of insights that are easy to understand for stakeholders. This project consists of a wide variety of data analytical skills and showcases my abilities to take data from a spreadsheet and transform it into answers for a variety of relevant business questions. 
 
 
 ## SQL
