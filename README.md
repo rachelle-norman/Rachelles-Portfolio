@@ -3,9 +3,17 @@
 Welcome to my portfolio! Here I showcase some of the main projects I have worked on related to data analysis.
 
 ## 📚Table of Contents
+  - [Master Project](#master-project)
   - [SQL](#sql)
   - [Tableau](#tableau)
   - [Excel](#excel)
+
+## Master Project
+
+| Project Link | Description |
+| --- | --- |
+| [Airline Loyalty Program Project](https://github.com/rachelle-norman/airline-loyalty-program-project/raw/main/Data%20Analysis%20Report.docx) | This project consists of a detailed data analysis report 
+
 
 ## SQL
 
